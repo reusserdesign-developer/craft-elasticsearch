@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+## 2.1.2 - 2025-04-30
+### Added
+- Craft 5 Compatibility
 
 ## 2.1.1 - 2022-08-24
 ### Changed
